@@ -32,16 +32,16 @@ export const store = createStore({
                     titleWidget: ''
                 },
             ],
+            feedbackUser: [],
             typeChosenUser: '',
-            feedbackUser: {
-                type: '',
-                message: ''
-            },
         }
     },
     mutations: {
         CHANGE_TYPE_FEEDBACK(state, payload) {
             state.typeChosenUser = payload
+        },
+        INSERT_FEEDBACK(state, payload) {
+            state.feedbackUser.push(payload)
         }
     }
 })

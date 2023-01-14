@@ -65,6 +65,7 @@ export default {
                         </button>
                     </div>
                     <component :is="stepFeedback"></component>
+                    
                 </div>
 
             </Transition>
@@ -76,15 +77,13 @@ export default {
 </template>
 
 <style scoped>
-
 .v-enter-active,
 .v-leave-active {
-  transition: opacity 0.2s ease;
+    transition: opacity 0.2s ease;
 }
 
 .v-enter-from,
 .v-leave-to {
-  opacity: 0;
+    opacity: 0;
 }
-
 </style>
