@@ -1,4 +1,4 @@
-# VueFY
+# Widget de Feedback
 Projeto simples apenas para desenvolver feature de feedback.
 
 ![Screenshot](./src/assets/imgs/preview.png)
