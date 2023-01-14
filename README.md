@@ -5,7 +5,6 @@ Projeto simples apenas para desenvolver feature de feedback.
 
 ## 🚀 Tecnologias
 - ✔️ VueJS 3 - Framework web
-- ✔️ Vue Router 4 - Roteamento para VueJS
 - ✔️ Vuex 4 - Gerenciamento de estado global
 - ✔️ Vite - Bundler e dev-server
 - ✔️ Tailwind CSS - Framework CSS
