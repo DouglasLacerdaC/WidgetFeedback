@@ -1,7 +1,36 @@
-# Vue 3 + Vite
+# VueFY
+Projeto simples apenas para desenvolver feature de feedback.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![Screenshot](./src/assets/imgs/preview.png)
 
-## Recommended IDE Setup
+## 🚀 Tecnologias
+- ✔️ VueJS 3 - Framework web
+- ✔️ Vue Router 4 - Roteamento para VueJS
+- ✔️ Vuex 4 - Gerenciamento de estado global
+- ✔️ Vite - Bundler e dev-server
+- ✔️ Tailwind CSS - Framework CSS
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 📦️ Pré-Requisitos
+Antes de começar você vai precisar ter instalado na sua máquina as ferramentas [Git](https://git-scm.com/) e [Node](https://nodejs.org/en/download/).
+
+## ⚡ Executando o projeto
+1. Clone o repositório
+```
+    git clone https://github.com/DouglasLacerdaC/WidgetFeedback.git
+```
+2. Acesse a pasta do projeto e instale as dependências
+```
+    yarn
+```
+3. Execute o projeto
+```
+    yarn dev
+```
+4. Acesse pelo navegador
+```
+    http://127.0.0.1:5173/
+```
+
+<br />
+
+Desenvolvido por [Douglas Lacerda](https://www.linkedin.com/in/douglas-lacerda-da-conceicao/)
